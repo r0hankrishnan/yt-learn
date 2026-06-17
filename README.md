@@ -1,2 +1,2 @@
-# pod-learn
-Create structured learning content from any podcast episode. 
+# yt-learn
+Pipeline to create structured learning content from any youtube video. 
